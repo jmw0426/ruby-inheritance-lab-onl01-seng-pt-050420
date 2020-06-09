@@ -5,6 +5,7 @@ class User
   #   @first_name = first_name 
   #   @last_name = last_name
   # end
+  
+  jim = User.new(Jim, Jones)
 end 
 
-jim = User.new(Jim, Jones)
